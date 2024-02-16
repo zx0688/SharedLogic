@@ -1,0 +1,6 @@
+-cp src
+--js bin/SL.js
+--main SL
+-lib hxnodejs
+--library seedyrng
+-D no-deprecation-warnings

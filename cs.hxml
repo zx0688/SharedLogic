@@ -1,0 +1,9 @@
+-cp src
+--cs bin/cs
+--main SL
+-D dll
+-D unity
+-D no-root
+-D no-deprecation-warnings
+--library seedyrng
+# -net-lib "/Applications/Unity/Hub/Editor/2022.3.13f1/Unity.app/Contents/Managed/UnityEngine.dll"
